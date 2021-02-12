@@ -1,7 +1,7 @@
 [wrap-git]
 
 directory = catch2
-url=http://echo:3000/randy/meson-subject-catch2.git
+url=git@github.com:randydu/meson-subproject-catch2.git
 revision = v2.13.4
 clone-recursive = false
 
